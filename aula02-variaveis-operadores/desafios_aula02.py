@@ -8,7 +8,7 @@ print(f"Boas-vindas, {nome}!!")
 dia = input("Insira o dia do seu nascimento: ")
 mês = input("Insira o mês do seu nascimento: ")
 ano = input("Insira o ano do seu nascimento: ")
-print()
+print(f"Data de nascimento: {dia}/{mês}/{ano}")
 
 # Desafio 03
 
